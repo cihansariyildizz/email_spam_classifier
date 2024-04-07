@@ -13,7 +13,7 @@ To run this project, you need Python and the following libraries:
 
 
 ## Dataset
-The dataset used in this project is `spam_ham_dataset.csv`, which contains email texts labeled as 'spam' or 'ham'.
+You can download the data set from: https://www.kaggle.com/datasets/venky73/spam-mails-dataset/data
 
 ## Preprocessing Steps
 1. **Normalization**: Convert text to lowercase and remove non-alphanumeric characters.
